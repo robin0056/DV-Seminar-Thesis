@@ -1,0 +1,123 @@
+\begin{thebibliography}{22}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{{\tt #1}}
+\providecommand{\urlprefix}{URL: }
+\providecommand{\urldateprefix}{Access date: }
+
+\bibitem[{Ackoff(1989)}]{ackhoff1989}
+Ackoff, R. 1989. \enquote{From Data to Wisdom,} {\it J Applied Systems
+  Analysis\/} (16), pp. 3--9.
+
+\bibitem[{Ali and Peebles(2012)}]{ali2012}
+Ali, N., and Peebles, D. 2012. \enquote{The Effect of Gestalt Laws of
+  Perceptual Organization on the Comprehension of Three-Variable Bar and Line
+  Graphs,} {\it Human Factors: The Journal of the Human Factors and Ergonomics
+  Society\/} (55:1), pp. 183--203.
+
+\bibitem[{Chen et~al.(2009)Chen, Ebert, Hagen, Laramee, van Liere, Ma,
+  Ribarsky, Scheuermann, and Silver}]{chen2009}
+Chen, M., Ebert, D., Hagen, H., Laramee, R.~S., van Liere, R., Ma, K.-L.,
+  Ribarsky, W., Scheuermann, G., and Silver, D. 2009. \enquote{Data,
+  Information, and Knowledge in Visualization,} {\it IEEE Computer Graphics and
+  Applications\/} (29:1), pp. 12--19.
+
+\bibitem[{Cleveland and McGill(1984{\natexlab{a}})}]{cleveland1984}
+Cleveland, W.~S., and McGill, R. 1984{\natexlab{a}}. \enquote{Graphical
+  Perception: Theory, Experimentation, and Application to the Development of
+  Graphical Methods,} {\it Journal of the American Statistical Association\/}
+  (79:387), pp. 531--554.
+
+
+\bibitem[{Cleveland and McGill(1984{\natexlab{b}})}]{cleveland1984b}
+Cleveland, W.~S., and McGill, R. 1984{\natexlab{b}}. \enquote{The Many Faces of
+  a Scatterplot,} {\it Journal of the American Statistical Association\/}
+  (79:388), pp. 807--822.
+
+
+\bibitem[{Cohen et~al.(2016)Cohen, Dennett, and Kanwisher}]{cohen2016}
+Cohen, M.~A., Dennett, D.~C., and Kanwisher, N. 2016. \enquote{What is the
+  Bandwidth of Perceptual Experience?} {\it Trends in Cognitive Sciences\/}
+  (20:5), pp. 324--335.
+
+\bibitem[{Dodds(2006)}]{dodds2006}
+Dodds, K. 2006. \enquote{Popular geopolitics and audience dispositions: James
+  Bond and the Internet Movie Database ({IMDb}),} {\it Transactions of the
+  Institute of British Geographers\/} (31:2), pp. 116--130.
+
+\bibitem[{Harrell and Brown(1992)}]{harrell1992}
+Harrell, J.~A., and Brown, V.~M. 1992. \enquote{The Oldest Surviving
+  Topographical Map from Ancient Egypt: (Turin Papyri 1879, 1899, and 1969),}
+  {\it Journal of the American Research Center in Egypt\/} (29), pp. 81--105.
+
+\bibitem[{Healy(2018)}]{healy2018}
+Healy, K. 2018. {\it Data Visualization: A Practical Introduction\/}, PRINCETON
+  UNIV PR.
+
+
+\bibitem[{Keller and Tergan(2005)}]{keller2005}
+Keller, T., and Tergan, S.-O. 2005. \enquote{Visual Queries: The Foundation of
+  Visual Thinking,} in {\it Visualizing Knowledge and Information\/}, Springer
+  Berlin Heidelberg, pp. 27--35.
+
+\bibitem[{Kumar et~al.(2019)Kumar, Harish, and Darshan}]{kumar2019}
+Kumar, K., Harish, B., and Darshan, H.~K. 2019. \enquote{Sentiment Analysis on
+  {IMDb} Movie Reviews Using Hybrid Feature Extraction Method,} {\it
+  International Journal of Interactive Multimedia and Artificial
+  Intelligence\/} (5:5), p. 109.
+
+\bibitem[{Norberg(2004)}]{norberg2004}
+Norberg, R. 2004. \enquote{Credibility Theory,} .
+
+\bibitem[{Oghina et~al.(2012)Oghina, Breuss, Tsagkias, and
+  de~Rijke}]{oghina2012}
+Oghina, A., Breuss, M., Tsagkias, M., and de~Rijke, M. 2012.
+  \enquote{Predicting {IMDB} Movie Ratings Using Social Media,} in {\it Lecture
+  Notes in Computer Science\/}, Springer Berlin Heidelberg, pp. 503--507.
+
+\bibitem[{Otterbacher(2012)}]{otterbacher2012}
+Otterbacher, J. 2012. \enquote{Gender, writing and ranking in review forums: a
+  case study of the {IMDb},} {\it Knowledge and Information Systems\/} (35:3),
+  pp. 645--664.
+
+\bibitem[{Robertson(1990)}]{robertson1990}
+Robertson, P. 1990. \enquote{A methodology for scientific data visualisation:
+  choosing representations based on a natural scene paradigm,} in {\it
+  Proceedings of the First {IEEE} Conference on Visualization: Visualization
+  {\textasciigrave}90\/}.
+
+\bibitem[{Schonlau and Peters(2008)}]{schonlau2008}
+Schonlau, and Peters 2008. \enquote{Graph Comprehension: An experiment in
+  displaying data as bar charts, pie charts and tables with and without the
+  gratuitous 3rd dimension,}  p.~2.
+
+\bibitem[{Talbot et~al.(2014)Talbot, Setlur, and Anand}]{talbot2014}
+Talbot, J., Setlur, V., and Anand, A. 2014. \enquote{Four Experiments on the
+  Perception of Bar Charts,} {\it {IEEE} Transactions on Visualization and
+  Computer Graphics\/} (20:12), pp. 2152--2160.
+
+\bibitem[{Vessey(1991)}]{vessey1991}
+Vessey, I. 1991. \enquote{Cognitive Fit: A Theory-Based Analysis of the Graphs
+  Versus Tables Literature,} {\it Decision Sciences Journal\/} (22:2), pp.
+  219--240.
+
+\bibitem[{Wertheimer(1923)}]{wertheimer1923}
+Wertheimer, M. 1923. \enquote{Untersuchungen zur Lehre von der Gestalt. II,}
+  {\it Psychologische Forschung\/} (4:1), pp. 301--350.
+
+\bibitem[{Wilkinson et~al.(2016)Wilkinson, Anderson, Bradley, and
+  Thibos}]{wilkinson2016}
+Wilkinson, M.~O., Anderson, R.~S., Bradley, A., and Thibos, L.~N. 2016.
+  \enquote{Neural bandwidth of veridical perception across the visual field,}
+  {\it Journal of Vision\/} (16:2), pp. 1--17.
+
+\bibitem[{Wolfe(2005)}]{wolfe2005}
+Wolfe, J.~M. 2005. \enquote{Guidance of Visual Search by Preattentive
+  Information,} in {\it Neurobiology of Attention\/}, Elsevier, pp. 101--104.
+
+\bibitem[{Yenter and Verma(2017)}]{yenter2017}
+Yenter, A., and Verma, A. 2017. \enquote{Deep {CNN}-{LSTM} with combined
+  kernels from multiple branches for {IMDb} review sentiment analysis,} in {\it
+  2017 {IEEE} 8th Annual Ubiquitous Computing, Electronics and Mobile
+  Communication Conference ({UEMCON})\/}.
+
+\end{thebibliography}

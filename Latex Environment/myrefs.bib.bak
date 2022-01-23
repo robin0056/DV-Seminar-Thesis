@@ -1,0 +1,12 @@
+% Encoding: UTF-8
+
+@Article{harrell1992,
+  author  = {J. A. Harrell and V. M. Brown},
+  journal = {Journal of the American Research Center in Egypt},
+  title   = {The Oldest Surviving Topographical Map from Ancient Egypt: (Turin Papyri 1879, 1899, and 1969)},
+  year    = {1992},
+  pages   = {81-105},
+  volume  = {29},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

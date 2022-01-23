@@ -1,0 +1,51 @@
+\documentclass[
+	language=english,
+	type=seminar
+]{isthesis}
+
+\usepackage{tikz}
+\usepackage{pdfpages}
+\usepackage{graphicx}
+\usepackage{blindtext}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{placeins}
+\usetikzlibrary{calc}
+\usetikzlibrary{matrix}
+\usetikzlibrary{positioning}
+\usetikzlibrary{shapes.geometric}
+\input{acronyms}
+\input{symbols}
+
+\isthesis{
+    title={A Comparison of IMDB Visualisations\\},
+    author-firstname={Robin Frederik}, 
+    author-lastname={Killewald},
+    author-email={robin.killewald@uni-muenster.de},
+    author-phone={+49 176 32206183},
+    author-matriculation={503 773},
+    author-address={Rektoratsweg 123},
+    author-zip={48159},
+    author-city={M\"{u}nster},
+    principal-supervisor={Prof. Dr. Herbert Kuchen (University of Münster)},
+    associate-supervisor={Dr. Johannes Schneider (University of Liechtenstein)},
+    group={Chair for Information Systems and Information Management},
+    group-institute={University of M\"unster},
+    studies={Information Systems},
+    seminar={Data Visualisation},
+    submission-date={2021-01-23}
+}
+
+\begin{document}
+    \maketitle
+    \tableofcontents
+
+    \begin{content}
+		\input{body01}
+    \end{content}
+
+	\cleardoublepage
+	\phantomsection
+    \references{library}
+\end{document}

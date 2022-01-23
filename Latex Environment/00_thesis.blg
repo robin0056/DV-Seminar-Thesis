@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: 00_thesis.aux
+The style file: assets/misq.bst
+Database file #1: library.bib
+Warning--I didn't find a database entry for "tufte1983"
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+`urldate' is a missing field, not a string, for entry cleveland1984
+while executing---line 1771 of file assets/misq.bst
+`urldate' is a missing field, not a string, for entry cleveland1984b
+while executing---line 1771 of file assets/misq.bst
+`urldate' is a missing field, not a string, for entry healy2018
+while executing---line 1771 of file assets/misq.bst
+`journal' is a missing field, not a string, for entry schonlau2008
+while executing---line 1771 of file assets/misq.bst
+Warning--empty journal in schonlau2008
+You've used 22 entries,
+            3508 wiz_defined-function locations,
+            839 strings with 9323 characters,
+and the built_in function-call counts, 29360 in all, are:
+= -- 3669
+> -- 451
+< -- 34
++ -- 267
+- -- 148
+* -- 1731
+:= -- 2908
+add.period$ -- 65
+call.type$ -- 22
+change.case$ -- 137
+chr.to.int$ -- 23
+cite$ -- 23
+duplicate$ -- 3307
+empty$ -- 1830
+format.name$ -- 209
+if$ -- 6134
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 193
+newline$ -- 76
+num.names$ -- 88
+pop$ -- 1254
+preamble$ -- 1
+purify$ -- 159
+quote$ -- 0
+skip$ -- 1361
+stack$ -- 0
+substring$ -- 2857
+swap$ -- 1807
+text.length$ -- 18
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 195
+warning$ -- 1
+while$ -- 141
+width$ -- 0
+write$ -- 248
+(There were 4 error messages)
